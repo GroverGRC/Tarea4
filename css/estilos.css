@@ -1,0 +1,55 @@
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+
+  .pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px;
+  }
+
+.container{
+    background-color: chocolate;
+    height: 100px;
+}
+
+.container-fluid
+{
+    /*background-color:fuchsia;
+    height: 100px;*/
+}
+.row
+{
+    /*background-color:aquamarine;*/
+    margin: 5px;
+}
+.col{
+    /*background-color: darkorange;*/
+    margin: 5px;
+}
+.pg3
+{
+    background-color: aquamarine;
+    margin: 5px;
+} 
+.yarndings-12 charted-regular {
+  font-family: "Yarndings 12 Charted", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.button {
+    background-color: black;
+    margin: 5px;
+}
+body{
+    background-image: url(../imag/img17.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+  
